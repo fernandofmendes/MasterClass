@@ -2,14 +2,26 @@
 
 Treinamento para nivelamento de conhecimento
 
+
+
 ## Índice ##
 
  - Apresentação sobre o treinamento
  - Informações de contato para grupo no WhatsApp
 
+---
 ## Funcionamento Internet e comunicações ##
 
+Imagem representando uma rede interna
+
+Figura: rede-interna.png
+
 ![alt rede-interna.png](/Aula-01/img/rede-interna.png)
+
+
+Imagem representando a configuração da interface de rede de um computador Windows
+
+Figura: manual-ip-configuration-windows-7.jpg
 
 ![alt manual-ip-configuration-windows-7.jpg](/Aula-01/img/manual-ip-configuration-windows-7.jpg)
 
