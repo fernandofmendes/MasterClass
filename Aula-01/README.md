@@ -49,7 +49,16 @@ Figura: multiplas-rede-interna.jpg
 nslookup
 
 ```
-COMPLETAR
+C:\Users\Lisnei>nslookup newton.ag
+Servidor:  UnKnown
+Address:  fe80::e626:8bff:feeb:835b
+
+Não é resposta de autorização:
+Nome:    newton.ag
+Address:  45.14.89.17
+
+
+C:\Users\Lisnei>
 ```
 
 host
