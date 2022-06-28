@@ -18,6 +18,7 @@ Figura: rede-interna.png
 
 ![alt rede-interna.png](/Aula-01/img/rede-interna.png)
 
+--
 
 Imagem representando a configuração da interface de rede de um computador Windows
 
@@ -25,6 +26,11 @@ Figura: manual-ip-configuration-windows-7.jpg
 
 ![alt manual-ip-configuration-windows-7.jpg](/Aula-01/img/manual-ip-configuration-windows-7.jpg)
 
+--
+
+Imagem representando a segregação de redes internas
+
+Figura: multiplas-rede-interna.jpg
 
 ![alt multiplas-rede-interna.jpg](/Aula-01/img/multiplas-rede-interna.jpg)
 
