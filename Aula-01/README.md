@@ -9,7 +9,6 @@ Treinamento para nivelamento de conhecimento
  - Apresentação sobre o treinamento
  - Informações de contato para grupo no WhatsApp
 
----
 ## Funcionamento Internet e comunicações ##
 
 Imagem representando uma rede interna
